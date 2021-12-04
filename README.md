@@ -1,1 +1,1 @@
-# Duplicate of google home page.
+# Duplicate of google.
